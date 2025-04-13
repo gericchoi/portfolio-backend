@@ -10,7 +10,7 @@ const port = process.env.PORT || 3001;
 
 app.use(
   cors({
-    origin: 'https://geric-choi.surge.sh',
+    origin: 'http://geric-choi.surge.sh',
   })
 );
 
