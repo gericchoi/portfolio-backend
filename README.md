@@ -1,10 +1,11 @@
-## Backend Technologies
+## Backend
 
-| Category        | Tech / Library                                  | Purpose                                |
-|-----------------|--------------------------------------------------|----------------------------------------|
-| **Runtime**     | [Node.js](https://nodejs.org)                   | Backend JavaScript runtime             |
-| **Framework**   | [Express](https://expressjs.com)                | API server creation                    |
-| **Middleware**  | [cors](https://www.npmjs.com/package/cors)      | Cross-origin resource sharing          |
-| **Environment** | [dotenv](https://www.npmjs.com/package/dotenv)  | Managing environment variables         |
-| **OpenAI**      | [openai](https://www.npmjs.com/package/openai)  | Access to GPT, AI services             |
-| **Email**       | [resend](https://resend.com)                    | Email sending (SMTP-less)             |
+| Category      | Tech / Library | Purpose                                 |
+|---------------|----------------|-----------------------------------------|
+| Runtime       | Node.js        | Backend JavaScript runtime              |
+| Framework     | Express        | API server creation                     |
+| Middleware    | cors           | Cross-origin resource sharing           |
+| Environment   | dotenv         | Managing environment variables          |
+| OpenAI        | openai         | Access to GPT, AI services              |
+| Email         | resend         | Email sending (SMTP-less)              |
+| Communication | fetch API      | Frontend-to-backend API interaction     |
